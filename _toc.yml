@@ -1,0 +1,7 @@
+format: jb-book
+root: README.md
+chapters:
+  - file: general.md
+  - file: private_versions.md
+  - file: prerelease_versions.md
+  - file: tools.md
